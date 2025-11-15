@@ -1,0 +1,25 @@
+/* 
+
+    CSS Guide
+
+    1. Web Fonts
+
+*/
+
+/* 1. --- Web Fonts --- */
+
+@font-face {
+    font-family: 'ceragr-regularuploaded_file';
+    src: url('../fonts/cera-gr-webfont.woff2') format('woff2'),
+         url('../fonts/cera-gr-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ceragr-mediumuploaded_file';
+    src: url('../fonts/cera-gr-medium-webfont.woff2') format('woff2'),
+         url('../fonts/cera-gr-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
